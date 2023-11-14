@@ -12,6 +12,18 @@
   text-align: center;
 }
 
+a.button-purple{
+  padding: 16px 24px;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #6B72E1;
+  color: white;
+}
+
+a.button-purple:hover{
+  background-color: #5c62c1;
+}
+
 .list-inline > li {
   display: inline-block;
   padding: 0px 20px;
@@ -68,7 +80,6 @@ body {
 a {
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
-  color: #6B72E1;
   font-weight: 600;
   font-size: 16px;
 }
