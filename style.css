@@ -27,6 +27,10 @@
   color: rgb(230, 230, 230);
 }
 
+.list-inline i:hover {
+  color: rgb(152, 152, 152);
+}
+
 div {
   display: block;
 }
